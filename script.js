@@ -44,7 +44,7 @@ else{
     {
         weatherIcon.src = "./assets/drizzle.png";
 
-    
+    }
      else if(data.weather[0].main === "Mist")
     {
         weatherIcon.src = "./assets/mist.png";
